@@ -17,7 +17,7 @@ spring boot, spring data JPA
 [JVM优化](https://github.com/sx89/JVM),mysql优化,设计模式,高并发编程,阿里编程规范  
 > 以及玩了一段时间hadoop...  
 
-**↑上面的,是研一上学期的笔记都在印象笔记里,不打算搬到github了**
+**↑上面的是研一上学期的笔记,都记在印象笔记里了,不搬到github了**
 
 >**研一下学期:**  
 习得技能:  
