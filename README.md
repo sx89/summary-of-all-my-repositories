@@ -11,6 +11,7 @@
 + 实现少量项目
 
 >**研一上学期:**   
+习得技能:  
 java,git,maven,linux,  
 spring boot, spring data JPA  
 [JVM优化](https://github.com/sx89/JVM),mysql优化,设计模式,高并发编程,阿里编程规范  
