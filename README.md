@@ -21,7 +21,7 @@ spring boot, spring data JPA
 
 >**研一下学期:**  
 习得技能:  
-spring cloud netflix全家桶:[eureka](https://github.com/sx89/eureka_server)|[zuul](https://github.com/sx89/api_gateway)|[order-service(整合hystrix,feign)](https://github.com/sx89/order_service)|[config-server](https://github.com/sx89/config_server)  
+spring cloud netflix全家桶:[eureka](https://github.com/sx89/eureka_server)|[zuul](https://github.com/sx89/api_gateway)|[订单服务](https://github.com/sx89/order_service)与[商品服务](https://github.com/sx89/product_server)(整合hystrix,feign)|[config-server](https://github.com/sx89/config_server)  
 [docker](https://github.com/sx89/docker-note),[redis-排行榜项目](https://github.com/sx89/ranking-practice)|[redis-秒杀项目](https://github.com/sx89/seckill-practice),[rabbitmq](https://github.com/sx89/rocketmq4.0-code),mycat   
 计划学习:  
 nginx,netty,springcloud的监控系统sleuth与zipkin,shiro,elasticSearch,zookeeper,dubbo   
