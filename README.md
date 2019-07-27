@@ -4,7 +4,7 @@
 **大方向:**  
 研一追求广度与知识体系   
 研二追求深度与项目实战  
-
+**目录:**  
 <!-- TOC -->
 
 - [summary of all my repositories](#summary-of-all-my-repositories)
@@ -32,7 +32,8 @@
 ### 研一上学期   
 >
 >习得技能:  
-Java,[Git](https://github.com/sx89/git-note),[Maven](https://github.com/sx89/IDEA-maven),Linux,  
+>
+>Java,[Git](https://github.com/sx89/git-note),[Maven](https://github.com/sx89/IDEA-maven),Linux,  
 Spring Boot, Spring Data JPA  
 [JVM优化](https://github.com/sx89/JVM),[网络编程](https://github.com/sx89/network_and_protocol),Mysql优化,设计模式,高并发编程,阿里编程规范  
 > 以及玩了一段时间Hadoop...  
@@ -53,7 +54,7 @@ Spring Boot, Spring Data JPA
 >[Docker-原理与底层学习笔记](https://github.com/sx89/docker-note)  
 [Redis-排行榜项目](https://github.com/sx89/ranking-practice)  
 [Redis-秒杀项目](https://github.com/sx89/seckill-practice)  
-[RabbitMQ-核心功能](https://github.com/sx89/rocketmq4.0-code)  
+[RabbitMQ-顺序消费,分布式锁,主从集群等](https://github.com/sx89/rocketmq4.0-code)  
 [NETTY-单机百万连接项目](https://github.com/sx89/netty-projects)  
 SpringBoot-微信支付项目
 >
