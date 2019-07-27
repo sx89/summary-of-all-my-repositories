@@ -24,16 +24,16 @@ Spring Boot, Spring Data JPA
 
 >**研一下学期:**
 >
->[我的代码反思录](https://github.com/sx89/coding-reflection)
+>[我的代码反思录(整合读书笔记:《Effective Java》《重构:改善既有代码质量》)](https://github.com/sx89/coding-reflection)
 >
 >习得技能:  
 Spring Cloud Netflix全家桶:[Eureka](https://github.com/sx89/eureka_server)|[Zuul](https://github.com/sx89/api_gateway)|[订单服务](https://github.com/sx89/order_service)与[商品服务](https://github.com/sx89/product_server)(整合Hystrix,Feign)|[Config-Server](https://github.com/sx89/config_server)  
-[Docker](https://github.com/sx89/docker-note),[Redis-排行榜项目](https://github.com/sx89/ranking-practice)|[Redis-秒杀项目](https://github.com/sx89/seckill-practice),[RabbitMQ](https://github.com/sx89/rocketmq4.0-code),Mycat  
+[Docker](https://github.com/sx89/docker-note),[Redis-排行榜项目](https://github.com/sx89/ranking-practice)|[Redis-秒杀项目](https://github.com/sx89/seckill-practice),[RabbitMQ-订单商品消费项目](https://github.com/sx89/rocketmq4.0-code),[NETTY-单机百万连接项目](https://github.com/sx89/netty-projects),SpringBoot-微信支付项目
 >  
 >
 >计划学习:  
-Nginx,Netty,Spring Cloud的监控系统Sleuth与Zipkin,Shiro,ElasticSearch,Zookeeper,Dubbo   
-<大型网站系统与JAVA中间件实践> < Effective Java > <深入理解Java虚拟机>
+Nginx,Spring Cloud的监控系统Sleuth与Zipkin,Shiro,ElasticSearch,Zookeeper,Dubbo   
+<大型网站系统与JAVA中间件实践> < Effective Java > <深入理解Java虚拟机><重构:改善既有代码质量>
 >
 >计划了解:  
 > Mongodb,Kafka,K8s,  
@@ -57,8 +57,15 @@ Nginx,Netty,Spring Cloud的监控系统Sleuth与Zipkin,Shiro,ElasticSearch,Zooke
 
 
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 关于如何记笔记的一些思考:  
 
